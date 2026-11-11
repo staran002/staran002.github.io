@@ -1,0 +1,3 @@
+# app-ads.txt for S&T Mobile Apps (https://staran002.github.io)
+# No ad networks are used yet: Sand Jar currently shows no ads.
+# The Google AdMob publisher line is added here before the first build with ads (closed test CT3).
